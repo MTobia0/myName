@@ -1,7 +1,3 @@
-<html>
-<body>
-
-
 <script type="text/javascript">
 var myName = "Michael Tobia"
 
@@ -13,8 +9,4 @@ else
 {
 document.write("Bye");
 }
-</script>
-
-</body>
-</html>
 
